@@ -1,0 +1,9 @@
+# Chemin racine (le point (.) signifie le dossier courant)
+path: . 
+train: data/train/images
+val: data/val/images
+
+# Nombre de classes
+nc: 3
+# Noms des classes (L'ordre doit être le même que dans votre script de conversion)
+names: ['with_mask', 'without_mask', 'mask_weared_incorrect']
