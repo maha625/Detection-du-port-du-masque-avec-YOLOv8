@@ -1,0 +1,12 @@
+
+dataset/
+data/
+
+
+runs/
+
+
+pycache/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
